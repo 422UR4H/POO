@@ -10,6 +10,7 @@ package lista_1;
  * @author 422UR4H
  */
 public class Ex_3 {
-    // A está correto
-    // B o main está fora de uma classe
+    // A compila
+    // B nao compila, pois o main está fora de uma classe
+    // C nao compila, pois não há um metodo main
 }
